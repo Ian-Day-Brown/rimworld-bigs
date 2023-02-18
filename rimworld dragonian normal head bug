@@ -1,0 +1,916 @@
+Tick 561
+Inspecting (113, 0, 131)
+---
+<saveable Class="Plant">
+  <def>Plant_Grass</def>
+  <id>Plant_Grass36626</id>
+  <map>0</map>
+  <pos>(113, 0, 131)</pos>
+  <health>85</health>
+  <questTags IsNull="True" />
+  <growth>1</growth>
+  <age>367560</age>
+</saveable>
+
+<saveable Class="Pawn">
+  <def>Human</def>
+  <id>Human485</id>
+  <map>0</map>
+  <pos>(113, 0, 131)</pos>
+  <rot>3</rot>
+  <faction>Faction_39</faction>
+  <questTags IsNull="True" />
+  <enchantingContainer>
+    <innerList />
+  </enchantingContainer>
+  <validSummoning>False</validSummoning>
+  <spawner>null</spawner>
+  <original IsNull="True" />
+  <tacticalComps>
+    <li Class="CombatExtended.AI.CompOpportunisticSwitch">
+      <pawnInt>Thing_Human485</pawnInt>
+    </li>
+    <li Class="CombatExtended.AI.CompTend">
+      <pawnInt>Thing_Human485</pawnInt>
+    </li>
+    <li Class="CombatExtended.AI.CompReload">
+      <pawnInt>Thing_Human485</pawnInt>
+    </li>
+    <li Class="CombatExtended.AI.CompGasMask">
+      <pawnInt>Thing_Human485</pawnInt>
+    </li>
+    <li Class="CombatExtended.AI.CompUrgentWeaponPickup">
+      <pawnInt>Thing_Human485</pawnInt>
+    </li>
+    <li Class="CombatExtended.AI.CompFireSelection">
+      <pawnInt>Thing_Human485</pawnInt>
+    </li>
+  </tacticalComps>
+  <ThingsHauledToInventory />
+  <isEnabled>True</isEnabled>
+  <HeadControllerComp_faceType>HeadNormal</HeadControllerComp_faceType>
+  <EyeballControllerComp_faceType>EyeWide</EyeballControllerComp_faceType>
+  <EyeballControllerComp_color>RGBA(0.471, 0.326, 0.670, 1.000)</EyeballControllerComp_color>
+  <LidControllerComp_faceType>LidNormal</LidControllerComp_faceType>
+  <BrowControllerComp_faceType>BrowNormal</BrowControllerComp_faceType>
+  <MouthControllerComp_faceType>MouthNormal</MouthControllerComp_faceType>
+  <SkinControllerComp_faceType>SkinNormal</SkinControllerComp_faceType>
+  <milkGeneAmount>12</milkGeneAmount>
+  <milkGeneDays>2</milkGeneDays>
+  <milkGenePresent>True</milkGenePresent>
+  <milkProduct>DragonianMilk</milkProduct>
+  <woolGrowth>0.0006233321</woolGrowth>
+  <woolGrowth>0.0006233321</woolGrowth>
+  <woolGeneAmount>50</woolGeneAmount>
+  <woolGeneDays>15</woolGeneDays>
+  <woolGenePresent>True</woolGenePresent>
+  <woolProduct>WoolDragonian</woolProduct>
+  <ticksToReset>2147483364</ticksToReset>
+  <lastKeepDisplayTick>-9999</lastKeepDisplayTick>
+  <learnedAbilities />
+  <currentlyCasting>null</currentlyCasting>
+  <currentlyCastingTargets />
+  <traitsToSet IsNull="True" />
+  <skillsToSet IsNull="True" />
+  <backstoriesToSet IsNull="True" />
+  <TargetBodyPart>Torso</TargetBodyPart>
+  <boughtItems />
+  <guestArea>null</guestArea>
+  <shoppingArea>null</shoppingArea>
+  <bed>null</bed>
+  <abilityUserIsInitializedAbilityUser.GenericCompAbilityUser>True</abilityUserIsInitializedAbilityUser.GenericCompAbilityUser>
+  <abilityDataAbilityUser.GenericCompAbilityUser>
+    <abilityDataPawnAbilityUser.AbilityData>Thing_Human485</abilityDataPawnAbilityUser.AbilityData>
+    <abilityDataClassAbilityUser.AbilityData>AbilityUser.GenericCompAbilityUser</abilityDataClassAbilityUser.AbilityData>
+    <abilityDataPowersAbilityUser.AbilityData />
+  </abilityDataAbilityUser.GenericCompAbilityUser>
+  <technoWeaponDefNum>-1</technoWeaponDefNum>
+  <mageLightThing>null</mageLightThing>
+  <soulBondPawn>null</soulBondPawn>
+  <technoWeaponQC>Normal</technoWeaponQC>
+  <enchanterStone>null</enchanterStone>
+  <enchanterStones />
+  <summonedMinions />
+  <supportedUndead />
+  <summonedLights />
+  <summonedPowerNodes />
+  <summonedCoolers />
+  <summonedHeaters />
+  <summonedSentinels />
+  <stoneskinPawns />
+  <weaponEnchants />
+  <lightningTraps />
+  <hexedPawns />
+  <earthSpriteMap>null</earthSpriteMap>
+  <fertileLands />
+  <recallMap>null</recallMap>
+  <recallNeedDefnames IsNull="True" />
+  <recallNeedValues IsNull="True" />
+  <recallHediffList IsNull="True" />
+  <recallHediffSeverityList IsNull="True" />
+  <recallHediffDefTicksRemainingList IsNull="True" />
+  <recallInjuriesList IsNull="True" />
+  <SoL>null</SoL>
+  <bondedSpirit>null</bondedSpirit>
+  <brands />
+  <brandDefs />
+  <livingWall>null</livingWall>
+  <magicWardrobe IsNull="True" />
+  <magicData IsNull="True" />
+  <combatItems />
+  <equipmentContainer>
+    <innerList />
+  </equipmentContainer>
+  <bondedPet>null</bondedPet>
+  <mightData IsNull="True" />
+  <kindDef>Colonist</kindDef>
+  <name Class="NameTriple">
+    <first>Yaroslav</first>
+    <nick>Ford</nick>
+    <last>Ford</last>
+  </name>
+  <mindState>
+    <meleeThreat>null</meleeThreat>
+    <enemyTarget>null</enemyTarget>
+    <knownExploder>null</knownExploder>
+    <lastMannedThing>null</lastMannedThing>
+    <droppedWeapon>null</droppedWeapon>
+    <lastAttackedTarget>(0, 0, 0)</lastAttackedTarget>
+    <thinkData>
+      <keys />
+      <values />
+    </thinkData>
+    <lastJobTag>Idle</lastJobTag>
+    <nextApparelOptimizeTick>8868</nextApparelOptimizeTick>
+    <lastEngageTargetTick>-99999</lastEngageTargetTick>
+    <lastAttackTargetTick>-99999</lastAttackTargetTick>
+    <canFleeIndividual>True</canFleeIndividual>
+    <lastMeleeThreatHarmTick>-99999</lastMeleeThreatHarmTick>
+    <nextMoveOrderIsWait>False</nextMoveOrderIsWait>
+    <duty IsNull="True" />
+    <mentalStateHandler>
+      <curState IsNull="True" />
+    </mentalStateHandler>
+    <mentalBreaker />
+    <mentalFitGenerator />
+    <inspirationHandler>
+      <curState IsNull="True" />
+    </inspirationHandler>
+    <priorityWork>
+      <prioritizedCell>(-1000, -1000, -1000)</prioritizedCell>
+    </priorityWork>
+    <lastSelfTendTick>-99999</lastSelfTendTick>
+    <breachingTarget IsNull="True" />
+    <babyAutoBreastfeedMoms>
+      <keys />
+      <values />
+    </babyAutoBreastfeedMoms>
+    <babyCaravanBreastfeed>
+      <keys />
+      <values />
+    </babyCaravanBreastfeed>
+    <resurrectTarget IsNull="True" />
+    <lastRangedHarmTick>0</lastRangedHarmTick>
+  </mindState>
+  <jobs>
+    <curJob>
+      <commTarget>null</commTarget>
+      <verbToUse>null</verbToUse>
+      <bill>null</bill>
+      <lord>null</lord>
+      <quest>null</quest>
+      <def>Wait_Wander</def>
+      <loadID>432</loadID>
+      <targetQueueA />
+      <targetQueueB />
+      <countQueue IsNull="True" />
+      <startTick>561</startTick>
+      <expiryInterval>167</expiryInterval>
+      <placedThings IsNull="True" />
+      <jobGiverThinkTree>Humanlike</jobGiverThinkTree>
+      <psyfocusTargetLast>-1</psyfocusTargetLast>
+      <ability>null</ability>
+      <lastJobGiverKey>-1797195842</lastJobGiverKey>
+    </curJob>
+    <curDriver Class="JobDriver_Wait">
+      <curToilIndex>0</curToilIndex>
+      <startTick>561</startTick>
+      <locomotionUrgencySameAs>null</locomotionUrgencySameAs>
+    </curDriver>
+    <jobQueue>
+      <jobs />
+    </jobQueue>
+    <formingCaravanTick>-1</formingCaravanTick>
+  </jobs>
+  <stances>
+    <stunner>
+      <showStunMote>True</showStunMote>
+    </stunner>
+    <stagger />
+    <curStance Class="Stance_Mobile" />
+  </stances>
+  <verbTracker>
+    <verbs>
+      <li Class="CombatExtended.Verb_MeleeAttackCE">
+        <loadID>Thing_Human485_0_Smash</loadID>
+        <currentTarget>(0, 0, 0)</currentTarget>
+        <currentDestination>(0, 0, 0)</currentDestination>
+        <lastShotTick>-999999</lastShotTick>
+        <canHitNonTargetPawnsNow>True</canHitNonTargetPawnsNow>
+        <MVCF_ManagedVerb>
+          <enabled>True</enabled>
+          <loadId>Thing_Human485_0_Smash_Managed</loadId>
+        </MVCF_ManagedVerb>
+      </li>
+      <li Class="CombatExtended.Verb_MeleeAttackCE">
+        <loadID>Thing_Human485_1_Smash</loadID>
+        <currentTarget>(0, 0, 0)</currentTarget>
+        <currentDestination>(0, 0, 0)</currentDestination>
+        <lastShotTick>-999999</lastShotTick>
+        <canHitNonTargetPawnsNow>True</canHitNonTargetPawnsNow>
+        <MVCF_ManagedVerb>
+          <enabled>True</enabled>
+          <loadId>Thing_Human485_1_Smash_Managed</loadId>
+        </MVCF_ManagedVerb>
+      </li>
+      <li Class="CombatExtended.Verb_MeleeAttackCE">
+        <loadID>Thing_Human485_2_Bite</loadID>
+        <currentTarget>(0, 0, 0)</currentTarget>
+        <currentDestination>(0, 0, 0)</currentDestination>
+        <lastShotTick>-999999</lastShotTick>
+        <canHitNonTargetPawnsNow>True</canHitNonTargetPawnsNow>
+        <MVCF_ManagedVerb>
+          <enabled>True</enabled>
+          <loadId>Thing_Human485_2_Bite_Managed</loadId>
+        </MVCF_ManagedVerb>
+      </li>
+      <li Class="CombatExtended.Verb_MeleeAttackCE">
+        <loadID>Thing_Human485_3_Smash</loadID>
+        <currentTarget>(0, 0, 0)</currentTarget>
+        <currentDestination>(0, 0, 0)</currentDestination>
+        <lastShotTick>-999999</lastShotTick>
+        <canHitNonTargetPawnsNow>True</canHitNonTargetPawnsNow>
+        <MVCF_ManagedVerb>
+          <enabled>True</enabled>
+          <loadId>Thing_Human485_3_Smash_Managed</loadId>
+        </MVCF_ManagedVerb>
+      </li>
+    </verbs>
+  </verbTracker>
+  <natives>
+    <verbTracker>
+      <verbs IsNull="True" />
+    </verbTracker>
+  </natives>
+  <meleeVerbs>
+    <curMeleeVerb>null</curMeleeVerb>
+    <terrainVerbs IsNull="True" />
+  </meleeVerbs>
+  <rotationTracker />
+  <pather>
+    <moving>False</moving>
+    <nextCell>(113, 0, 131)</nextCell>
+    <nextCellCostInitial>50</nextCellCostInitial>
+    <peMode>OnCell</peMode>
+    <cellsUntilClamor>7</cellsUntilClamor>
+    <lastMovedTick>561</lastMovedTick>
+  </pather>
+  <carryTracker>
+    <innerContainer>
+      <maxStacks>1</maxStacks>
+      <innerList />
+    </innerContainer>
+  </carryTracker>
+  <apparel>
+    <wornApparel>
+      <innerList>
+        <li>
+          <def>Apparel_Pants</def>
+          <id>Apparel_Pants486</id>
+          <health>130</health>
+          <stackCount>1</stackCount>
+          <stuff>Synthread</stuff>
+          <questTags IsNull="True" />
+          <quality>Normal</quality>
+          <sourcePrecept>null</sourcePrecept>
+          <everSeenByPlayer>True</everSeenByPlayer>
+          <initialized>True</initialized>
+          <SoulOrbTraits />
+        </li>
+      </innerList>
+    </wornApparel>
+    <lockedApparel IsNull="True" />
+    <lastApparelWearoutTick>250</lastApparelWearoutTick>
+  </apparel>
+  <story>
+    <bodyType>DragonianM</bodyType>
+    <hairDef>Bald</hairDef>
+    <hairColor>RGBA(0.980, 0.980, 0.980, 1.000)</hairColor>
+    <skinColorOverride>RGBA(0.980, 0.941, 0.941, 1.000)</skinColorOverride>
+    <traits>
+      <allTraits>
+        <li>
+          <def>SicklyEnjoyer</def>
+          <sourceGene>null</sourceGene>
+          <suppressedBy>null</suppressedBy>
+        </li>
+        <li>
+          <def>NatureLover</def>
+          <sourceGene>null</sourceGene>
+          <suppressedBy>null</suppressedBy>
+        </li>
+        <li>
+          <def>FastLearner</def>
+          <sourceGene>null</sourceGene>
+          <suppressedBy>null</suppressedBy>
+        </li>
+      </allTraits>
+    </traits>
+    <birthLastName>Ford</birthLastName>
+    <favoriteColor>RGBA(0.306, 0.510, 0.514, 1.000)</favoriteColor>
+    <headType>Dragonian_M</headType>
+    <childhood>Scout44</childhood>
+  </story>
+  <equipment>
+    <equipment>
+      <innerList />
+    </equipment>
+    <bondedWeapon>null</bondedWeapon>
+  </equipment>
+  <drafter>
+    <autoUndrafter />
+  </drafter>
+  <ageTracker>
+    <ageBiologicalTicks>62791193</ageBiologicalTicks>
+    <birthAbsTicks>-3111975154</birthAbsTicks>
+    <growth>0.9689941</growth>
+    <progressToNextBiologicalTick>0.3734131</progressToNextBiologicalTick>
+    <nextGrowthCheckTick>720</nextGrowthCheckTick>
+    <ageReversalDemandedAtAgeTicks>92340000</ageReversalDemandedAtAgeTicks>
+  </ageTracker>
+  <healthTracker>
+    <hediffSet>
+      <hediffs />
+    </hediffSet>
+    <surgeryBills>
+      <bills />
+    </surgeryBills>
+    <immunity>
+      <imList />
+    </immunity>
+  </healthTracker>
+  <records>
+    <records>
+      <vals>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>540</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+      </vals>
+    </records>
+    <battleActive>null</battleActive>
+  </records>
+  <inventory>
+    <itemsNotForSale />
+    <unpackedCaravanItems />
+    <innerContainer>
+      <innerList />
+    </innerContainer>
+  </inventory>
+  <filth>
+    <lastTerrainFilthDef>Filth_Dirt</lastTerrainFilthDef>
+    <carriedFilth>
+      <li>
+        <def>Filth_Dirt</def>
+        <id>Filth_Dirt54599</id>
+        <questTags IsNull="True" />
+      </li>
+    </carriedFilth>
+  </filth>
+  <roping>
+    <hitchingPostInt>null</hitchingPostInt>
+    <ropees />
+  </roping>
+  <needs>
+    <needs>
+      <li Class="Need_Mood">
+        <def>Mood</def>
+        <curLevel>0.5216</curLevel>
+        <thoughts>
+          <memories>
+            <memories>
+              <li Class="Thought_MemorySocial">
+                <def>CrashedTogether</def>
+                <sourcePrecept>null</sourcePrecept>
+                <otherPawn>Thing_Human457</otherPawn>
+                <age>450</age>
+                <opinionOffset>25</opinionOffset>
+              </li>
+              <li Class="Thought_MemorySocial">
+                <def>CrashedTogether</def>
+                <sourcePrecept>null</sourcePrecept>
+                <otherPawn>Thing_Human461</otherPawn>
+                <age>450</age>
+                <opinionOffset>25</opinionOffset>
+              </li>
+              <li>
+                <def>NewColonyOptimism</def>
+                <sourcePrecept>null</sourcePrecept>
+                <otherPawn>null</otherPawn>
+                <age>450</age>
+              </li>
+            </memories>
+          </memories>
+        </thoughts>
+        <recentMemory>
+          <lastLightTick>278</lastLightTick>
+          <lastOutdoorTick>415</lastOutdoorTick>
+        </recentMemory>
+      </li>
+      <li Class="Need_Food">
+        <def>Food</def>
+        <curLevel>0.788</curLevel>
+        <lastNonStarvingTick>415</lastNonStarvingTick>
+      </li>
+      <li Class="Need_Rest">
+        <def>Rest</def>
+        <curLevel>0.9347419</curLevel>
+      </li>
+      <li Class="Need_Joy">
+        <def>Joy</def>
+        <curLevel>0.5429655</curLevel>
+        <tolerances>
+          <vals>
+            <li>0</li>
+            <li>0</li>
+            <li>0</li>
+            <li>0</li>
+            <li>0</li>
+            <li>0</li>
+            <li>0</li>
+            <li>0</li>
+            <li>0</li>
+            <li>0</li>
+            <li>0</li>
+            <li>0</li>
+            <li>0</li>
+            <li>0</li>
+            <li>0</li>
+            <li>0</li>
+            <li>0</li>
+            <li>0</li>
+          </vals>
+        </tolerances>
+        <bored>
+          <vals>
+            <li>False</li>
+            <li>False</li>
+            <li>False</li>
+            <li>False</li>
+            <li>False</li>
+            <li>False</li>
+            <li>False</li>
+            <li>False</li>
+            <li>False</li>
+            <li>False</li>
+            <li>False</li>
+            <li>False</li>
+            <li>False</li>
+            <li>False</li>
+            <li>False</li>
+            <li>False</li>
+            <li>False</li>
+            <li>False</li>
+          </vals>
+        </bored>
+      </li>
+      <li Class="Need_Beauty">
+        <def>Beauty</def>
+        <curLevel>0.5192</curLevel>
+      </li>
+      <li Class="Need_Comfort">
+        <def>Comfort</def>
+        <curLevel>0.4928</curLevel>
+      </li>
+      <li Class="Need_Outdoors">
+        <def>Outdoors</def>
+        <curLevel>1</curLevel>
+      </li>
+      <li Class="Need_Indoors">
+        <def>Indoors</def>
+        <curLevel>1</curLevel>
+      </li>
+      <li Class="Need_Chemical_Any">
+        <def>DrugDesire</def>
+        <curLevel>0.5</curLevel>
+      </li>
+      <li Class="Need_RoomSize">
+        <def>RoomSize</def>
+        <curLevel>0.6620001</curLevel>
+      </li>
+      <li Class="VanillaMemesExpanded.Need_Desserts">
+        <def>VME_Desserts</def>
+        <curLevel>0.5</curLevel>
+      </li>
+      <li Class="VanillaMemesExpanded.Need_Anonymity">
+        <def>VME_Anonymity</def>
+        <curLevel>0.49625</curLevel>
+      </li>
+      <li Class="VanillaMemesExpanded.Need_Corruption">
+        <def>VME_Corruption</def>
+        <curLevel>0.5</curLevel>
+      </li>
+    </needs>
+  </needs>
+  <guest>
+    <hostFaction>null</hostFaction>
+    <slaveFaction>null</slaveFaction>
+    <joinStatus>JoinAsSlave</joinStatus>
+    <interactionMode>NoInteraction</interactionMode>
+    <slaveInteractionMode>NoInteraction</slaveInteractionMode>
+    <spotToWaitInsteadOfEscaping>(-1000, -1000, -1000)</spotToWaitInsteadOfEscaping>
+    <lastPrisonBreakTicks>-1</lastPrisonBreakTicks>
+    <ideoForConversion>null</ideoForConversion>
+    <lastResistanceInteractionData IsNull="True" />
+    <finalResistanceInteractionData IsNull="True" />
+  </guest>
+  <guilt />
+  <royalty>
+    <titles />
+    <favor>
+      <keys />
+      <values />
+    </favor>
+    <highestTitles>
+      <keys />
+      <values />
+    </highestTitles>
+    <heirs>
+      <keys />
+      <values />
+    </heirs>
+    <permits />
+    <abilities />
+  </royalty>
+  <social>
+    <directRelations />
+    <relativeInvolvedInRescueQuest>null</relativeInvolvedInRescueQuest>
+    <pregnancyApproaches>
+      <keys />
+      <values />
+    </pregnancyApproaches>
+    <romanceEnableTick>-1</romanceEnableTick>
+  </social>
+  <psychicEntropy>
+    <limitEntropyAmount>True</limitEntropyAmount>
+  </psychicEntropy>
+  <ownership>
+    <ownedBed>null</ownedBed>
+    <assignedMeditationSpot>null</assignedMeditationSpot>
+    <assignedGrave>null</assignedGrave>
+    <assignedThrone>null</assignedThrone>
+    <assignedDeathrestCasket>null</assignedDeathrestCasket>
+  </ownership>
+  <interactions />
+  <skills>
+    <skills>
+      <li>
+        <def>Shooting</def>
+        <level>4</level>
+        <passion>None</passion>
+      </li>
+      <li>
+        <def>Melee</def>
+        <level>4</level>
+        <passion>Major</passion>
+      </li>
+      <li>
+        <def>Construction</def>
+        <level>5</level>
+        <passion>None</passion>
+      </li>
+      <li>
+        <def>Mining</def>
+        <level>4</level>
+        <passion>None</passion>
+      </li>
+      <li>
+        <def>Cooking</def>
+        <level>3</level>
+        <passion>None</passion>
+      </li>
+      <li>
+        <def>Plants</def>
+        <level>2</level>
+        <passion>None</passion>
+      </li>
+      <li>
+        <def>Animals</def>
+        <level>2</level>
+        <passion>VSE_Natural</passion>
+      </li>
+      <li>
+        <def>Crafting</def>
+        <level>2</level>
+        <passion>None</passion>
+      </li>
+      <li>
+        <def>Artistic</def>
+        <level>1</level>
+        <passion>VSE_Apathy</passion>
+      </li>
+      <li>
+        <def>Medicine</def>
+        <level>3</level>
+        <passion>Major</passion>
+      </li>
+      <li>
+        <def>Social</def>
+        <level>1</level>
+        <passion>None</passion>
+      </li>
+      <li>
+        <def>Intellectual</def>
+        <level>3</level>
+        <passion>None</passion>
+      </li>
+    </skills>
+    <lastXpSinceMidnightResetTimestamp>-1</lastXpSinceMidnightResetTimestamp>
+    <expertise>
+      <expertise />
+    </expertise>
+  </skills>
+  <abilities>
+    <abilities />
+  </abilities>
+  <ideo>
+    <ideo>Ideo_23</ideo>
+    <previousIdeos />
+    <certainty>0.9598376</certainty>
+    <babyIdeoExposure IsNull="True" />
+  </ideo>
+  <workSettings>
+    <priorities>
+      <vals>
+        <li>3</li>
+        <li>3</li>
+        <li>3</li>
+        <li>3</li>
+        <li>3</li>
+        <li>0</li>
+        <li>0</li>
+        <li>3</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>3</li>
+        <li>3</li>
+        <li>0</li>
+        <li>3</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+        <li>3</li>
+        <li>0</li>
+        <li>0</li>
+        <li>0</li>
+      </vals>
+    </priorities>
+  </workSettings>
+  <trader IsNull="True" />
+  <outfits>
+    <curOutfit>Outfit_Anything1</curOutfit>
+    <overrideHandler>
+      <forcedAps />
+    </overrideHandler>
+  </outfits>
+  <drugs>
+    <curAssignedDrugs>DrugPolicy_No drugs2</curAssignedDrugs>
+    <drugTakeRecords />
+  </drugs>
+  <foodRestriction>
+    <curRestriction>null</curRestriction>
+    <allowedBabyFoodTypes IsNull="True" />
+  </foodRestriction>
+  <timetable>
+    <times>
+      <li>Sleep</li>
+      <li>Sleep</li>
+      <li>Sleep</li>
+      <li>Sleep</li>
+      <li>Sleep</li>
+      <li>Sleep</li>
+      <li>Anything</li>
+      <li>Anything</li>
+      <li>Anything</li>
+      <li>Anything</li>
+      <li>Anything</li>
+      <li>Anything</li>
+      <li>Anything</li>
+      <li>Anything</li>
+      <li>Anything</li>
+      <li>Anything</li>
+      <li>Anything</li>
+      <li>Anything</li>
+      <li>Anything</li>
+      <li>Anything</li>
+      <li>Anything</li>
+      <li>Anything</li>
+      <li>Sleep</li>
+      <li>Sleep</li>
+    </times>
+  </timetable>
+  <playerSettings>
+    <medCare>Best</medCare>
+    <areaAllowed>null</areaAllowed>
+    <master>null</master>
+  </playerSettings>
+  <training IsNull="True" />
+  <style>
+    <beardDef>NoBeard</beardDef>
+    <faceTattoo>NoTattoo_Face</faceTattoo>
+    <bodyTattoo>NoTattoo_Body</bodyTattoo>
+  </style>
+  <styleObserver />
+  <connections>
+    <connectedThings />
+  </connections>
+  <inventoryStock>
+    <stockEntries>
+      <keys />
+      <values />
+    </stockEntries>
+  </inventoryStock>
+  <treeSightings>
+    <miniTreeSightings />
+    <fullTreeSightings />
+    <superTreeSightings />
+  </treeSightings>
+  <thinker />
+  <mechanitor IsNull="True" />
+  <genes>
+    <xenogenes />
+    <endogenes>
+      <li>
+        <def>DragonianBody</def>
+        <pawn>Thing_Human485</pawn>
+        <overriddenByGene>null</overriddenByGene>
+        <loadID>535</loadID>
+      </li>
+      <li>
+        <def>DragonianHead</def>
+        <pawn>Thing_Human485</pawn>
+        <overriddenByGene>null</overriddenByGene>
+        <loadID>536</loadID>
+      </li>
+      <li Class="BTE.Gene_ExcessMilkProduction">
+        <def>DragonianProduced1</def>
+        <pawn>Thing_Human485</pawn>
+        <overriddenByGene>null</overriddenByGene>
+        <loadID>537</loadID>
+      </li>
+      <li Class="BTE.Gene_RapidCoatGrowth">
+        <def>DragonianProduced2</def>
+        <pawn>Thing_Human485</pawn>
+        <overriddenByGene>null</overriddenByGene>
+        <loadID>538</loadID>
+      </li>
+      <li>
+        <def>Hair_Dragonian</def>
+        <pawn>Thing_Human485</pawn>
+        <overriddenByGene>null</overriddenByGene>
+        <loadID>539</loadID>
+      </li>
+      <li>
+        <def>Skin_SheerWhite</def>
+        <pawn>Thing_Human485</pawn>
+        <overriddenByGene>null</overriddenByGene>
+        <loadID>540</loadID>
+      </li>
+      <li>
+        <def>Hair_SnowWhite</def>
+        <pawn>Thing_Human485</pawn>
+        <overriddenByGene>null</overriddenByGene>
+        <loadID>541</loadID>
+      </li>
+      <li>
+        <def>Robust</def>
+        <pawn>Thing_Human485</pawn>
+        <overriddenByGene>null</overriddenByGene>
+        <loadID>542</loadID>
+      </li>
+      <li>
+        <def>MeleeDamage_Strong</def>
+        <pawn>Thing_Human485</pawn>
+        <overriddenByGene>null</overriddenByGene>
+        <loadID>543</loadID>
+      </li>
+      <li>
+        <def>AptitudePoor_Construction</def>
+        <pawn>Thing_Human485</pawn>
+        <overriddenByGene>null</overriddenByGene>
+        <loadID>544</loadID>
+      </li>
+      <li>
+        <def>AptitudePoor_Mining</def>
+        <pawn>Thing_Human485</pawn>
+        <overriddenByGene>null</overriddenByGene>
+        <loadID>545</loadID>
+      </li>
+      <li>
+        <def>AptitudeTerrible_Intellectual</def>
+        <pawn>Thing_Human485</pawn>
+        <overriddenByGene>null</overriddenByGene>
+        <loadID>546</loadID>
+        <passionPreAdd>None</passionPreAdd>
+      </li>
+      <li>
+        <def>Skin_Melanin9</def>
+        <pawn>Thing_Human485</pawn>
+        <overriddenByGene>null</overriddenByGene>
+        <loadID>547</loadID>
+      </li>
+    </endogenes>
+    <xenotype>DragonianXenotype</xenotype>
+  </genes>
+  <learning IsNull="True" />
+  <MVCF_VerbManager>
+    <currentVerb>null</currentVerb>
+  </MVCF_VerbManager>
+</saveable>
+
